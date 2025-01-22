@@ -1,5 +1,5 @@
 main {
-    margin-top: 4rem;
+    margin-top: 1.7rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -22,7 +22,7 @@ main .title {
 .hero {
     overflow: hidden;
 }
-
+/* 
 .hero .div-img {
    position: relative;
 }
@@ -39,18 +39,4 @@ main .title {
     width: 100%;
     top: 0;
     position: absolute;
-}
-
-.hero-btn {
-    font-size: 1.2rem;
-    font-weight: 700;
-    margin-left: 52%;
-    transform: translateX(-50%);
-    text-align: center;
-    width: 60%;
-    display: block;
-    background: var(--red-color);
-    color: var(--light-color);
-    padding: 0.7rem;
-    border-radius: 12px;
-}
+} */

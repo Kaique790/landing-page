@@ -1,5 +1,7 @@
 main {
-    margin-top: 1.7rem;
+    padding: 1rem;
+    color: var(--dark-color);
+    margin-top: 2rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -13,30 +15,20 @@ main .title {
     margin-bottom: 1.7rem;
 }
 
-/* hero */
+
 
 .title span {
     color: var(--red-color);
 }
 
-.hero {
-    overflow: hidden;
+.subtitle {
+    text-align: center;
+    font-weight: 400;
+    font-size: 1rem;
 }
-/* 
-.hero .div-img {
-   position: relative;
-}
+
+/* hero */
 
 .hero-img {
-    width: 110%;
-    height: 100%;
-    margin-bottom: 20px;
+    height: 500px;
 }
-
-.style-img {
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.034) 20%, rgb(255, 255, 255) 90%, rgb(255, 255, 255));
-    height: 100%;
-    width: 100%;
-    top: 0;
-    position: absolute;
-} */

@@ -42,6 +42,7 @@ header {
 }
 
 .btn-show {
+    cursor: pointer;
     background: none;
     border: none;
 }
@@ -79,6 +80,7 @@ nav.show {
 }
 
 .btn-closed i {
+    cursor: pointer;
     font-size: 2.4rem;
 }
 
@@ -96,5 +98,3 @@ nav ul {
     font-weight: 600;
     font-size: 1.8rem;
 }
-
-

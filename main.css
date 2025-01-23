@@ -54,11 +54,15 @@ main .title {
     width: 100%;
     position: relative;
 }
+.circle-img {
+    position: relative;
+}
 
-.hero .circle-img {
+.circle-img img{
+    z-index: -1;
     position: absolute;
-    left: 220px;
-    top: -45px;
+    right: 0;
+    top: 380px;
 }
 
 .hero-img {
